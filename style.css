@@ -1,0 +1,24 @@
+body{
+    background-image: url("https://icon2.cleanpng.com/20180408/ivw/kisspng-akshaya-tritiya-krishna-janmashtami-festival-navar-diwali-5acae2c66ba8f6.680851631523245766441.jpg");
+}
+
+h1{
+    text-align: center;
+    color: blue;
+}
+
+#button{
+    max-width: 250px;
+    height: 70px;
+    width: 60vw;
+    padding: 5px;
+    background-color: #7FD443;
+    border: 1px 0.9 black;
+    box-shadow: 0px 20px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+    font-size: 26px;
+    font-family: 'Luckiest Guy', cursive;
+    letter-spacing: 3px;
+    color: white;
+    cursor: pointer;
+}
